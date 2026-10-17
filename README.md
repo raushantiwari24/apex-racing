@@ -6,7 +6,7 @@ A browser-based 3D racing prototype built with HTML, CSS, JavaScript, and Three.
 
 ## Play
 
-After publishing with GitHub Pages, the game will be available at `https://YOUR-USERNAME.github.io/apex-racing/`. Replace `YOUR-USERNAME` with your GitHub username.
+[Play APEX Racing](https://raushantiwari24.github.io/apex-racing/)
 
 ## Current features
 
@@ -30,12 +30,9 @@ After publishing with GitHub Pages, the game will be available at `https://YOUR-
 
 Open `index.html` in a modern browser with an internet connection. The page loads Three.js from a CDN. Audio starts after a user interaction, as required by most browsers.
 
-## Publish with GitHub Pages
+## Hosting
 
-1. Create a **public** repository named `apex-racing`.
-2. Add `index.html` and this `README.md` at the repository root.
-3. In **Settings → Pages**, choose **Deploy from a branch**, then select `main` and `/(root)`.
-4. Open the published URL and test the game in a logged-out browser before sharing it.
+GitHub Pages deploys this site from the `main` branch and repository root. New commits are published automatically after the Pages build completes.
 
 ## Project focus
 
